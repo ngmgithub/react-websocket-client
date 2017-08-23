@@ -1,9 +1,9 @@
-#react-websocket-client
+# react-websocket-client
 
-#Setup
+# Setup
 npm install
 npm start
 npm build
 
-#Usage
+# Usage
 Entry point from browser ./www/index.html
