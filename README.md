@@ -1,1 +1,1 @@
-# react-websocket-clint
+# react-websocket-client
